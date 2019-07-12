@@ -1,7 +1,7 @@
 <?php
 
 
-/*Final Project- 'Sanjana Chandrashekar'*/
+/*Final Project- 'yashas'*/
 session_start();
 
 
