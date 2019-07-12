@@ -1,5 +1,5 @@
 <?php
-/*Sanjana Chandrashekar*/
+/*yashas*/
 print_r($_POST);
 require_once("config.php");
 // Assigning $_POST values to individual variables for reuse.
